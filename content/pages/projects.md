@@ -2,6 +2,9 @@ Title: Projects
 
 ## Projects
 
+### Physics-Based Animation
+
+---
 
 ### Computer Animation
 
