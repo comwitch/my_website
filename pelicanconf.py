@@ -1,4 +1,5 @@
-THEME = "alchemy"
+import alchemy
+THEME = alchemy.path()
 AUTHOR = 'Dongwon Kim'
 SITENAME = 'Dongwon Kim'
 SITEURL = ""
