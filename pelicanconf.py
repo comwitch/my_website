@@ -1,5 +1,6 @@
-from importlib.resources import files
-THEME = str(files("alchemy"))
+import importlib.util
+from pathlib import Path
+THEME = str(Path(importlib.util.find_spec("alchemy").origin).parent)
 AUTHOR = 'Dongwon Kim'
 SITENAME = 'Dongwon Kim'
 SITEURL = ""
