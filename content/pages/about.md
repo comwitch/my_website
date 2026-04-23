@@ -6,7 +6,7 @@ save_as: index.html
 
 PhD Student / Researcher  
 [Hanyang University / CALAB (http://calab.hanyang.ac.kr/)]  
-tuna831@gmail.com | [GitHub](https://github.com/comwitch)
+tuna831(at)gmail(dot)com | [GitHub](https://github.com/comwitch)
 
 ---
 
