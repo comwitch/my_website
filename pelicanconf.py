@@ -1,5 +1,5 @@
-import alchemy
-THEME = alchemy.path()
+from importlib.resources import files
+THEME = str(files("alchemy"))
 AUTHOR = 'Dongwon Kim'
 SITENAME = 'Dongwon Kim'
 SITEURL = ""
