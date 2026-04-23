@@ -6,6 +6,13 @@ SITENAME = 'Dongwon Kim'
 SITEURL = ""
 
 PATH = "content"
+STATIC_PATHS = ["images"]
+
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.attr_list": {},
+    }
+}
 
 TIMEZONE = 'Asia/Seoul'
 DEFAULT_LANG = 'en'

@@ -15,9 +15,9 @@ Korea University University, Seoul, Korea
 
 **Research Intership** (2025)  
 Melbourne University, Melbourne, Austrailia
-I worked as visiting reasearcher with prof. Taehyun Rhee(Mentor), Dr. Lingyan Ruan(Mentor), Lingxiao Li, SeungWon Jeong, Mayura Manawadu, Jihwan Kim.
-
+I worked as visiting reasearcher with **prof. Taehyun Rhee(Mentor), Dr. Lingyan Ruan(Mentor)**, Lingxiao Li, SeungWon Jeong, Mayura Manawadu, Jihwan Kim.
 
 **Unreal Engine Developers** (2022 – 2023)  
 Field-S, Seoul, Korea
 I make VR communication app and make plugin for facial animation.
+
