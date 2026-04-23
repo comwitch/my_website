@@ -17,6 +17,7 @@ tuna831(at)gmail(dot)com | [GitHub](https://github.com/comwitch) | [ORCID](https
 I am a researcher interested in **computer animation** and **physics-based animation**.
 My research is focused on character interaction in diverse environment.
 
+
 ---
 
 ## Research Interests
@@ -24,3 +25,11 @@ My research is focused on character interaction in diverse environment.
 - **Physics-Based Animation** — rigid body dynamics, soft body simulation, fluid simulation
 - **Computer Animation** — character animation, motion synthesis, procedural animation
 - **Interaction with Soft environment**
+
+---
+
+## Language / Skills
+
+- **Korean** : native
+- **English** : fluent 
+- **C++, LUA, Python** : main programming language
