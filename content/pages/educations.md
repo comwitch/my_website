@@ -2,7 +2,7 @@ Title: CV
 
 ## Education
 
-**MSC and Ph.D. in Computer Science** (2024 – present)  
+**MSC and Ph.D. student in Computer Science** (2024 – present)  
 Hanyang University, Seoul, Korea  
 Advisor: Prof. Taesoo Kwon | Lab: [CALAB](http://calab.hanyang.ac.kr/)
 
