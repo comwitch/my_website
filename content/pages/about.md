@@ -22,7 +22,7 @@ My research is focused on character interaction in diverse environment.
 
 ## Research Interests
 
-- **Physics-Based Animation** — rigid body dynamics, soft body simulation, fluid simulation
+- **Physics-Based Animation** — rigid body dynamics, soft body simulation
 - **Computer Animation** — character animation, motion synthesis, procedural animation
 - **Interaction with Soft environment**
 
